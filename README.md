@@ -65,8 +65,8 @@ The final model performance was evaluated using **Accuracy Score**.
 
 | Model | Achieved Accuracy |
 | :--- | :--- |
-| **Logistic Regression (TF-IDF)** | **87.97%** (approx.) |
-| **Multinomial Naive Bayes (BoW)** | 82.81% (approx.) |
+| **Logistic Regression (TF-IDF)** | **86.97%** (approx.) |
+| **Multinomial Naive Bayes (BoW)** | **76.81%** (approx.) |
 
 *(Note: The Notebook suggests that Logistic Regression with TF-IDF provided the best performance)*.
 
